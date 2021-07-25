@@ -1,1 +1,1 @@
-This repository contains Cyberpunk Themed Plots made using ![https://github.com/dhaitz/mplcyberpunk]('mplcyberpunk') library.
+This repository contains Cyberpunk Themed Plots made using ![mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) library.
