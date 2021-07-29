@@ -1,4 +1,3 @@
 This repository contains Cyberpunk Themed Plots made using ![mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) library.
 
-
-![Example Sin-Cosine Curve](https://raw.githubusercontent.com/Rahuls66/Python-CyberpunkPlots/main/output/SinCosine.png)
+Find the detailed article ![Here](https://www.analyticsvidhya.com/blog/2021/07/cyberpunk-themed-charts-advanced-data-visualization-in-python/)
